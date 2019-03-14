@@ -33,3 +33,11 @@ infeasible to label them by hand.
 Design and execute a method to identify topics within the reviews. For each topic, find a
 robust means of assigning a score to each hotel in that topic. For each of the ten hotels,
 what recommendations would you make to their general managers?
+
+
+## Costly Conversion
+
+You sit inside the product team at Symantec, which sells a cyber security software for $39 across a variety of devices. Revenue has been flat for some time, so the VP of Product would like to experiment with the effect of increasing the price. Your team designed an experiment to measure the effect of doing so. In the experiment, 66% of the users have seen the old price ($39), while a random sample of 33% users were shown a higher price ($59).
+
+The experiment has been running for some time and the VP of Product is interested in understanding how it went. She would like to learn key insights about what drives conversion rate. She'd like a recommendation of what price to sell the software at, and for you to quantify the cost of the experiment and whether you could have done it in shorter time. Would you have designed the experiment differently, why or why not?
+
